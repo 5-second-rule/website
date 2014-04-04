@@ -18,6 +18,14 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 Put `group: navigation` in the front-matter
 
+## Build or Serve Locally
+
+    $ jekyll build
+
+or
+
+    $ jekyll serve
+
 ## Publish the Site
 
     $ jekyll build --safe
