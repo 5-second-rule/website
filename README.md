@@ -20,7 +20,7 @@ Put `group: navigation` in the front-matter
 
 ## Publish the Site
 
-    $ jekyll build
+    $ jekyll build --safe
     $ scp -r _site cse125.ucsd.edu:/path/to/site/
 
 ## Jekyll-Bootstrap Details
