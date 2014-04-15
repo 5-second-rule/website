@@ -2,8 +2,8 @@
 layout: post
 title: "Zach Johnson - week 2 report"
 description: ""
-category: 
-tags: []
+category: individual-updates
+tags: [zach-johnson,week-2]
 ---
 {% include JB/setup %}
 
@@ -26,3 +26,6 @@ tags: []
 ### Goals for next week
  - Finish getting engine and renderer to basic working state
  - Do as much as I can to contribute to getting basic game up and working
+ 
+### Morale
+ - {hopeful, excited}
