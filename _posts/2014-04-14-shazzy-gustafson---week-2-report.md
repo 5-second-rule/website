@@ -2,8 +2,8 @@
 layout: post
 title: "Shazzy Gustafson   Week 2 Report"
 description: ""
-category: 
-tags: []
+category: individual-updates
+tags: [shazzy-gustafson, week-2]
 ---
 {% include JB/setup %}
 
