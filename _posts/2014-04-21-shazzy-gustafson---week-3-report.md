@@ -21,6 +21,5 @@ Models Completed
 
 	Also, have downloaded some free models to play with (pills, Mace, grenade)
 	Each character also has a skeleton that can be animated. Ecoli has one limb animated to
-	try to get it to work in directx. Currently working on creating two more bacterias (Common cold + Herpes), more weapons, and also 2D Choose Player screen.
+	try to get it to work in directx. Currently working on creating two more bacterias (Common cold + Herpes), more weapons, and also 2D Choose Player screen. Current difficulties faced: Texture mapping/ UV mapping 
 
-	
