@@ -22,11 +22,11 @@ tags: [sean-hamilton, week-3]
 * Server Monitor Heartbeat
 
 ### Problems with Meeting Goals
-Still waiting to be able to drop CSE110 and some work schedule conflicts
+Some work schedule conflicts and other class assignments
 	
 ### Goals for Next Week
 * Refactor `CommsProcessor` into `CommsProcBase` class, `ServerCommsProc` and `ClientCommsProc` sub-classes
 * Recieveing Actions from Clients and sending world updates to clients
  
 ### Morale
-Not too bad; I have food, coffee, alcohol, a bed, the internet, and no one is shooting at me.
+Not too bad; I have food, coffee, alcohol, a bed, the internet, and no one is shooting at me. I have dropped CSE110 as of 21st of April. 
