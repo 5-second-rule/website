@@ -3,7 +3,7 @@ layout: post
 title: "Matheus Ferreira - Week 3 Report"
 description: ""
 category: individual-updates
-tags: [matheus-Ferreira,week-2]
+tags: [matheus-Ferreira,week-3]
 ---
 {% include JB/setup %}
 
