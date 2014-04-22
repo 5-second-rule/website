@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ScreenShots"
+title: "Screenshots"
 description: ""
 category: Screen-Shots
 tags: [Art-Concept]
@@ -8,6 +8,6 @@ tags: [Art-Concept]
 {% include JB/setup %}
 
 
-!assets/images/ecoli.jpg
-!assets/images/bacteria.jpg
-!asset/images/redbloocell.jpg
+![]({{ BASE_PATH }}/assets/images/ecoli.jpg)
+![]({{ BASE_PATH }}/assets/images/bacteria.jpg)
+![]({{ BASE_PATH }}/assets/images/redbloodcell.jpg)
