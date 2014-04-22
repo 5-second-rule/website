@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Screenshots"
+title: "Screenshots - Week 2"
 description: ""
-category: Screen-Shots
-tags: [Art-Concept]
+category: Screenshots
+tags: [concept-art,week-2]
 ---
 {% include JB/setup %}
 
