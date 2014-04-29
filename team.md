@@ -10,7 +10,7 @@ group: navigation
 
 Graphics and UI
 
-### Kyler Shwartz
+### Kyler Schwartz
 
 Graphics
 
