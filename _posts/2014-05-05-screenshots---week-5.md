@@ -8,5 +8,5 @@ tags: []
 {% include JB/setup %}
 
 
-![]({{ BASE_PATH }}/assets/images/whiteblood.PNG
-![]({{ BASE_PATH }}/assets/images/2DCharacters.png
+![]({{ BASE_PATH }}/assets/images/whiteblood.PNG)
+![]({{ BASE_PATH }}/assets/images/2DCharacters.png)
