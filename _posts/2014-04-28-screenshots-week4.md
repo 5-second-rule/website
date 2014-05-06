@@ -8,5 +8,5 @@ tags: []
 {% include JB/setup %}
 
 
-!assets/images/malaria.PNG
-!assets/images/herpes.png
+![]({{ BASE_PATH }}/assets/images/malaria.PNG
+![]({{ BASE_PATH }}/assets/images/herpes.png
