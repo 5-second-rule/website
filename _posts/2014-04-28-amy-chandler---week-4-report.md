@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amy Chandler   Week 4 Report"
+title: "Amy Chandler - Week 4 Report"
 description: ""
 category: individual-updates
 tags: [amy-chandler,week-4]
