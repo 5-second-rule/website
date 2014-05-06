@@ -12,7 +12,7 @@ tags: [matheus-Ferreira,week-5]
 
 * Create state machines
 * Implement AI steering behaviors
-* Work onpPhysics
+* Work on Physics
 
 ### What goals were you able to accomplish?
 
