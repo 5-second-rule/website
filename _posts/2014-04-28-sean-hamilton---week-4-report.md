@@ -11,7 +11,7 @@ tags: [sean-hamilton, week-4]
 We are currently working on serialize and deserialize architecture and hope to have that done by Monday night.
 
 ### Accomplished Goals
-The `CommsProcessor` and `Socket' classes have been integrated into the engine core. 
+The `CommsProcessor` and `Socket` classes have been integrated into the engine core. 
 
 Engine core is not linked against in the real client and server and they are passing information back and forth.
 
