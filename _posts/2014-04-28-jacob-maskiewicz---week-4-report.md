@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jacob Maskiewicz   Week 4 Report"
+title: "Jacob Maskiewicz - Week 4 Report"
 description: ""
 category: individual-updates
 tags: [jake-maskiewicz,week-4]
