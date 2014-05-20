@@ -9,20 +9,21 @@ tags: [shazzy-gustafson, week-7]
 
 
 ### What were your concrete goals for the week?
-Finish the intro screen 
-Finish player select screen
+* Finish the intro screen 
+* Finish player select screen
 
 
 
 ### What goals were you able to accomplish?
-Finished intro play screen
-Finished player select screen & created seperate components for Amy to use
+* Finished intro play screen
+* Finished player select screen & created seperate components for Amy to use
 
 
 ### If there were goals you were unable to meet, what were the reasons?
-meet both goals for this week (kept them realistic )
+* Met both goals for this week (kept them realistic )
 
 
 ### What are your specific goals for the next week?
-Create in game 2D art (deaths, powerups)
-Find sounds for intro, collisions etc with Sean
+* Create in game 2D art (deaths, powerups)
+* Model Blood Clot
+* Find sounds for intro, collisions etc with Sean
