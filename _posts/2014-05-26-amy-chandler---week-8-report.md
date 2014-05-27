@@ -13,7 +13,7 @@ tags: [amy-chandler,week-8]
  - Draw gameplay UI based on player object
 
 ### Accomplished goals
- - At the time of writing this this post, I have unfortunately been able to meet any of my goals this week. 
+ - At the time of writing this this post, I have unfortunately not been able to meet any of my goals this week. 
  
 ### Problems with meeting goals
  - I was out all weekend for a wedding in PA and got home within the hour of writing this post. I thought I would have more time to get work done than I ultimately actually did, and spent what I could of my nights working on other projects and homework. Planning on yet another long Monday night to get things done.
