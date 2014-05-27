@@ -21,5 +21,5 @@ tags: [matheus-ferreira,week-7]
 * The physics in the follow path still needs some improvement.
 
 ### Goals for Next Week
-* Insert functionality of create autonomoble objects on the fly.
+* Insert functionality of create autonomous objects on the fly.
 * Insert commands of change object state in the command line.
