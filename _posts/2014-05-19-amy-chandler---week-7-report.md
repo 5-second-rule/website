@@ -3,7 +3,7 @@ layout: post
 title: "Amy Chandler - Week 7 Report"
 description: ""
 category: individual-updates
-tags: [amy-chandler,week-6]
+tags: [amy-chandler,week-7]
 ---
 {% include JB/setup %}
 
