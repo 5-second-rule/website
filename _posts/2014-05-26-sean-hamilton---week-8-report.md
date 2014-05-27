@@ -19,8 +19,8 @@ sound tracks. Still working on selection screen mechanics and starting games.
 
 ### If there were goals you were unable to meet, what were the reasons?
 
-The selection screen and starting the game is taking more time than expected, plus Memorial Day weekend also occured.
-The control mechanics are still being worked so play testing has not occured yet.
+The selection screen and starting the game is taking more time than expected, plus Memorial Day weekend also occurred.
+The control mechanics are still being worked so play testing has not occurred yet.
 
 ### What are your specific goals for the next week?
 

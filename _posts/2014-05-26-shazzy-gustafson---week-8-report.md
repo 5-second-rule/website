@@ -21,7 +21,7 @@ tags: [shazzy-gustafson, week-8]
 
 
 ### If there were goals you were unable to meet, what were the reasons?
-* Wasnt able to model the blood clot just didnt have time to get around to it
+* Wasn't able to model the blood clot just didn't have time to get around to it
 
 
 ### What are your specific goals for the next week?
